@@ -11,4 +11,9 @@
     rel="icon" 
     href="<%= BASE_URL %>favicon.ico"
 >
+<link 
+    rel="stylesheet" 
+    href="{{ mix('/css/app.css') }}"
+>
+
 <title>To Do list</title>

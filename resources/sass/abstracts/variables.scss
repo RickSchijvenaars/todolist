@@ -1,0 +1,24 @@
+// Breakpoints
+$breakpoints: (
+    'smallest': 320px,
+    'smaller': 360px,
+    'small': 420px,
+    'medium': 768px,
+    'large': 1024px,
+    'larger': 1120px,
+    'huge': 1200px,
+    'xhuge': 1400px,
+);
+
+// Colors
+$black-haze: #f9fafa;
+$porsche: #efba6b;
+$dusty: #999;
+$white-lilac: #f4fbf4;
+$pigeon-post: #b2c7df;
+$zanah: #ccebcc;
+$moss-green: #9bcf9b;
+$fruit-salad: #459645;
+
+// Typography
+$font-body: 'Muli', sans-serif;
